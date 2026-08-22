@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petroliaductcleaning.ca/sitemap-index.xml
