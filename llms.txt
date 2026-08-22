@@ -1,2 +1,25 @@
 # Petrolia Duct Cleaning
-HVAC services in Ontario.
+
+> Petrolia Duct Cleaning is a local HVAC company serving Petrolia, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 882-0159  |  Email: contact@petroliaductcleaning.ca  |  Website: https://petroliaductcleaning.ca
+
+## Key pages
+
+- [Home](https://petroliaductcleaning.ca/): Petrolia Duct Cleaning homepage with service overview and FAQ
+- [About](https://petroliaductcleaning.ca/about/): About the company and service area
+- [Contact](https://petroliaductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://petroliaductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Petrolia, Ontario
+- [Dryer Vent Cleaning](https://petroliaductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Petrolia, Ontario
+- [Furnace & AC Cleaning](https://petroliaductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Petrolia, Ontario
+- [HRV & Ventilation Cleaning](https://petroliaductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Petrolia, Ontario
+- [Duct Sanitizing & Deodorizing](https://petroliaductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Petrolia, Ontario
+- [Duct Sealing & Repair](https://petroliaductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Petrolia, Ontario
+- [Commercial Duct Cleaning](https://petroliaductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Petrolia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Petrolia are answered on the homepage.
